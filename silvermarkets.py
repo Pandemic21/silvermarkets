@@ -85,7 +85,7 @@ def initialization():
 # MAIN ###########################################################################
 
 # Constants
-USERNAME=""
+USERNAME="pandemic21bot"
 PASSWORD=""
 STARTING_LOAN="500"
 LOGFILE='/home/pandemic/Documents/scripts/silvermarket/silvermarket.log'
